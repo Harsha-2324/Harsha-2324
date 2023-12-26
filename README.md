@@ -2,12 +2,12 @@
 <h1 align="center"> Hi 👋, I'm HARSHAVARDHAN RAJINIKANTH </h1>
 <h3 align="center">Passionate full-stack developer with expertise in front-end technologies like HTML, CSS, and JavaScript, and back-end technologies like Node.js and MongoDB. Always eager to learn and take on new challenges in the tech world.</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
-- 🔭 I’m currently working on MERN Stack
-- 📫 How to reach me rharshva@gmail.com
-- 🌱 I’m currently learning MERN Stack
-- 💬 Ask me about Technology
-- ⚡ Fun fact The word technology was coined in 330 BC by the one and only Aristotle.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=harsha-2324&label=Profile%20views&color=0e75b6&style=flat" alt="harsha-2324" /> </p>
+ 🔭 I’m currently working on MERN Stack
+ 📫 How to reach me rharshva@gmail.com
+ 🌱 I’m currently learning MERN Stack
+ 💬 Ask me about Technology
+ ⚡ Fun fact The word technology was coined in 330 BC by the one and only Aristotle.
 
 
 ## 🌐 Socials:
