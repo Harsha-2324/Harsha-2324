@@ -1,4 +1,4 @@
-![Harsha's GitHub Banner](https://media.licdn.com/dms/image/D5616AQEcJa9ipTIj1Q/profile-displaybackgroundimage-shrink_350_1400/0/1703587872643?e=1709164800&v=beta&t=KaumiWtv2eH-SiqPWEDpiU7c2l7qpKUKqKTB7EG2jUY)
+![Harsha's GitHub Banner](https://miro.medium.com/v2/resize:fit:720/format:webp/1*sV60JhlYL4IdWjcNvKTJRA.png)
 # Hi 👋, I'm HARSHAVARDHAN RAJINIKANTH
 🔭 I’m currently working on MERN Stack<br>📫 How to reach me rharshva@gmail.com<br>🌱 I’m currently learning MERN Stack<br>💬 Ask me about Technology<br>⚡ Fun fact Fun fact The word technology was coined in 330 BC by the one and only Aristotle.
 
