@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hi 👋, I'm HARSHAVARDHAN RAJINIKANTH
 🔭 I’m currently working on MERN Stack<br>📫 How to reach me rharshva@gmail.com<br>🌱 I’m currently learning MERN Stack<br>💬 Ask me about Technology<br>⚡ Fun fact Fun fact The word technology was coined in 330 BC by the one and only Aristotle.
 
 
