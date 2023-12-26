@@ -2,7 +2,12 @@
 <h1 align="center"> Hi 👋, I'm HARSHAVARDHAN RAJINIKANTH </h1>
 <h3 align="center">Passionate full-stack developer with expertise in front-end technologies like HTML, CSS, and JavaScript, and back-end technologies like Node.js and MongoDB. Always eager to learn and take on new challenges in the tech world.</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-🔭 I’m currently working on MERN Stack<br>📫 How to reach me rharshva@gmail.com<br>🌱 I’m currently learning MERN Stack<br>💬 Ask me about Technology<br>⚡ Fun fact Fun fact The word technology was coined in 330 BC by the one and only Aristotle.
+
+- 🔭 I’m currently working on MERN Stack
+- 📫 How to reach me rharshva@gmail.com
+- 🌱 I’m currently learning MERN Stack
+- 💬 Ask me about Technology
+- ⚡ Fun fact The word technology was coined in 330 BC by the one and only Aristotle.
 
 
 ## 🌐 Socials:
@@ -19,10 +24,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Harsha-2324&theme=tokyonight&hide_border=false)
 ![](https://github-contributor-stats.vercel.app/api?username=Harsha-2324&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Harsha-2324&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Harsha-2324&icon=2&color=6)](https://visitcount.itsvg.in)
