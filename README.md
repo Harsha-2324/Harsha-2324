@@ -1,5 +1,7 @@
 ![Harsha's GitHub Banner](https://img.freepik.com/premium-photo/hacker-hooded-sweatshirt-glasses-banner-made-with-generative-ai_155027-3515.jpg?w=1380)
 # Hi 👋, I'm HARSHAVARDHAN RAJINIKANTH
+<h3 align="center">Passionate full stack developer with expertise in front-end technologies like HTML, CSS, and JavaScript, and back-end technologies like Node.js and MongoDB. Always eager to learn and take on new challenges in the tech world.</h3>
+<h3 align="center">Passionate full stack developer with expertise in front-end technologies like HTML, CSS, and JavaScript, and back-end technologies like Node.js and MongoDB. Always eager to learn and take on new challenges in the tech world.</h3>
 🔭 I’m currently working on MERN Stack<br>📫 How to reach me rharshva@gmail.com<br>🌱 I’m currently learning MERN Stack<br>💬 Ask me about Technology<br>⚡ Fun fact Fun fact The word technology was coined in 330 BC by the one and only Aristotle.
 
 
@@ -18,7 +20,7 @@
 
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Harsha-2324&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
