@@ -1,4 +1,4 @@
-![Shadir's GitHub Banner](https://media.licdn.com/dms/image/D5616AQGgVHn6fZeFFQ/profile-displaybackgroundimage-shrink_350_1400/0/1673892485014?e=1684368000&v=beta&t=A3vj-aw2ySqPh3QaTaCXIAx77Bicww4-JYhihj8f7Pc)
+![Harsha's GitHub Banner]([https://media.licdn.com/dms/image/D5616AQGgVHn6fZeFFQ/profile-displaybackgroundimage-shrink_350_1400/0/1673892485014?e=1684368000&v=beta&t=A3vj-aw2ySqPh3QaTaCXIAx77Bicww4-JYhihj8f7Pc](https://media.licdn.com/dms/image/D5616AQEcJa9ipTIj1Q/profile-displaybackgroundimage-shrink_350_1400/0/1703587872643?e=1709164800&v=beta&t=KaumiWtv2eH-SiqPWEDpiU7c2l7qpKUKqKTB7EG2jUY))
 # Hi 👋, I'm HARSHAVARDHAN RAJINIKANTH
 🔭 I’m currently working on MERN Stack<br>📫 How to reach me rharshva@gmail.com<br>🌱 I’m currently learning MERN Stack<br>💬 Ask me about Technology<br>⚡ Fun fact Fun fact The word technology was coined in 330 BC by the one and only Aristotle.
 
