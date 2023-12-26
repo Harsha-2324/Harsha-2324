@@ -5,11 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harsha-2324" alt="harsha-2324" /></a> </p>
 
-- 🔭 I’m currently working on **MERN**
+- 🔭 I’m currently working on **MERN Stack**
 
-- 🌱 I’m currently learning **MERN STACK**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 📫 How to reach me **rharshva@gmail.com**
+
+- ⚡ Fun fact **The word technology was coined in 330 BC by the one and only Aristotle.**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -17,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/harshavardhan-rajinikanth-439858172/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshavardhan-rajinikanth" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/harshavardhan-rajinikanth-439858172" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshavardhan-rajinikanth-439858172" height="30" width="40" /></a>
 <a href="https://medium.com/@rharshva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rharshva" height="30" width="40" /></a>
 </p>
 
@@ -29,4 +31,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harsha-2324&show_icons=true&locale=en" alt="harsha-2324" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harsha-2324&" alt="harsha-2324" /></p>
-
