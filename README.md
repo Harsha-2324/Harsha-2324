@@ -2,8 +2,8 @@
 <h1 align="center"> Hi 👋, I'm HARSHAVARDHAN RAJINIKANTH </h1>
 <h3 align="center">Passionate full-stack developer with expertise in front-end technologies like HTML, CSS, and JavaScript, and back-end technologies like Node.js and MongoDB. Always eager to learn and take on new challenges in the tech world.</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harsha-2324&label=Profile%20views&color=0e75b6&style=flat" alt="harsha-2324" /> </p>
- 
+ <p align="left"> <img src="https://visitcount.itsvg.in/api?id=Harsha-2324&icon=2&color=6" alt="harsha-2324" /> </p>
+  
   🔭 I’m currently working on **MERN Stack**<br>
   📫 How to reach me: rharshva@gmail.com<br>
   🌱 I’m currently learning: **MERN Stack**<br>
@@ -26,6 +26,3 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Harsha-2324&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Harsha-2324&icon=2&color=6)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
