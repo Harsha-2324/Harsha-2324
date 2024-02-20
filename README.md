@@ -22,6 +22,6 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Harsha-2324&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true) <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-<h1 align="left">![](https://github-readme-streak-stats.herokuapp.com/?user=Harsha-2324&theme=tokyonight&hide_border=false)</h1> <h1 align="right">![](https://github-readme-stats.vercel.app/api/top-langs/?username=Harsha-2324&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)</h1>
+<a align="left" ![](https://github-readme-streak-stats.herokuapp.com/?user=Harsha-2324&theme=tokyonight&hide_border=false)> <h1 align="right">![](https://github-readme-stats.vercel.app/api/top-langs/?username=Harsha-2324&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)</h1>
 
 ---
