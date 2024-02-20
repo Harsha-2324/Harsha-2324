@@ -1,7 +1,7 @@
 ![Harsha's GitHub Banner](https://img.freepik.com/premium-photo/hacker-hooded-sweatshirt-glasses-banner-made-with-generative-ai_155027-3515.jpg?w=1380)
 <h1 align="center"> Hi 👋, I'm HARSHAVARDHAN RAJINIKANTH </h1>
 <h3 align="center">Passionate full-stack developer with expertise in front-end technologies like HTML, CSS, and JavaScript, and back-end technologies like Node.js and MongoDB. Always eager to learn and take on new challenges in the tech world.</h3>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/58109796/233058941-9dd6c50a-a5ea-45fd-b788-c3bb8e00bffe.gif">
  <p align="left"> <img src="https://visitcount.itsvg.in/api?id=Harsha-2324&icon=2&color=6" alt="harsha-2324" /> </p>
   
   🔭 I’m currently working on **MERN Stack**<br>
@@ -22,6 +22,7 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Harsha-2324&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Harsha-2324&theme=tokyonight&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Harsha-2324&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
