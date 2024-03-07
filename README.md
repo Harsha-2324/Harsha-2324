@@ -11,10 +11,10 @@
   ⚡ Fun fact: ``The Deep Web is Deeper Than You Think``<br>
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harshavardhan-rajinikanth-439858172/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@rharshva) 
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Harsha-2324&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
 # 💻 Tech Stack:
